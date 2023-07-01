@@ -14,7 +14,7 @@
 }
 
 body.index-page {
-    background-image: url(../images/Recipes-home.jpg);
+    background-image: url("../images/Recipes-home.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
